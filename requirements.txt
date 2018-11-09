@@ -1,0 +1,11 @@
+scipy
+chardet
+plotly
+gensim
+chardet
+natsort
+requests
+biopython
+scikit-bio
+colorlover
+beautifulsoup4
